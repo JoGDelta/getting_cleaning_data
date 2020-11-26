@@ -16,7 +16,7 @@ The first two columns are identifiers:
 2. Activity: the name of the activity performed by the subject when measurements were taken.
 
 ### Measurements
-The remaining variables are the calculated means and standard deviations of the sets of data:
+The remaining variables are the calculated means and standard deviations of the following sets of data:
 
 * tBodyAccMeanX
 * tBodyAccMeanY
