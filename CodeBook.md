@@ -18,10 +18,10 @@ The first two columns are identifiers:
 ### Measurements
 The remaining variables are the calculated means and standard deviations of the sets of data:
 
-tBodyAccMeanX
-tBodyAccMeanY
-tBodyAccMeanZ
-tBodyAccStdX
+* tBodyAccMeanX
+* tBodyAccMeanY
+* tBodyAccMeanZ
+* tBodyAccStdX
 tBodyAccStdY
 tBodyAccStdZ
 tGravityAccMeanX
